@@ -14,7 +14,6 @@
     ],
     'depends': [
         'point_of_sale',
-        'ob_pos_payment_reference',
     ],
     'installable': True,
     'license': 'LGPL-3',
